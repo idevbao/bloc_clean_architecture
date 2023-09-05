@@ -1,0 +1,13 @@
+name: basecleanflutter
+
+packages:
+  - domain
+  - data
+  - initializer
+  - resources
+  - shared
+  - app
+
+command:
+  bootstrap:
+    usePubspecOverrides: true
